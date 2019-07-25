@@ -1,3 +1,8 @@
-first i made a local git from clone 
+#first i made a local git from clone 
 now i making a file c1.txt
 
+
+
+now i chnaged from master to production 
+we r now on producito branch 
+edit some code here from which i got from master branch  commirtted  
