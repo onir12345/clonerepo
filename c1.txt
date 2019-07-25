@@ -6,3 +6,5 @@ now i making a file c1.txt
 now i chnaged from master to production 
 we r now on producito branch 
 edit some code here from which i got from master branch  commirtted  
+now i m chnaging some code in a file c1.txt here through github 
+who will permit you to writr here 
